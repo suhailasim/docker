@@ -1,3 +1,3 @@
 this is dockerfile
-centos
-run apt-get update-y
+centos/7
+apt-get update
